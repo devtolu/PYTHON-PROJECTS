@@ -9,3 +9,5 @@ Python is a powerful and versatile programming language that is widely used in d
 In this file, you will find examples of Python code that demonstrate my proficiency in data analysis using Python. You'll find a diverse set of projects that cover a wide range of data analysis techniques, such as data cleaning, data exploration, data visualization, and statistical modeling. These projects showcase my ability to extract insights from data and present them in a clear and visually appealing way.
 
 I hope you find this repository to be informative and engaging. I welcome any opportunity to discuss my qualifications and experience further. Thank you for visiting my repository!
+
+![image](https://github.com/user-attachments/assets/adc5aee6-b200-4901-bd93-b4e16f5bb450)
