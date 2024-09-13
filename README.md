@@ -10,7 +10,7 @@ In this file, you will find examples of Python code that demonstrate my proficie
 
 I hope you find this repository to be informative and engaging. I welcome any opportunity to discuss my qualifications and experience further. Thank you for visiting my repository!
 
-<b>Olympics Analysis</b><br>
+<b>Olympics Analysis</b> https://github.com/devtolu/PYTHON-PROJECTS/blob/main/olympics.ipynb <br>
 <b>Description:</b>This project analyzes retail transactions data and classifies customers into distinct groups by applying RFM model and quantile scoring method. The objective is to help the business gain insights and develop effective engagement strategies based on customer behaviors. As a result, two tables are created describing each group's charateristics and sharing recommended marketing strategies.
 
 <b>Tools:</b> Jupyter Notebook (Python).
