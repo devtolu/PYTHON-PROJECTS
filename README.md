@@ -19,9 +19,10 @@ I hope you find this repository to be informative and engaging. I welcome any op
 
 <b>Outputs:</b>
 
-Project notebook in .ipynb file format.
+Project notebook in .ipynb file format. <br>
 https://github.com/devtolu/PYTHON-PROJECTS/blob/main/olympics.ipynb
 
 Dataset
-Data Source - Kaggle - https://www.kaggle.com/datasets/sajkazmi/paris-olympics-2024-games-dataset-updated-daily
+Data Source - Kaggle  <br>
+https://www.kaggle.com/datasets/sajkazmi/paris-olympics-2024-games-dataset-updated-daily
 
