@@ -9,3 +9,20 @@ Python is a powerful and versatile programming language that is widely used in d
 In this file, you will find examples of Python code that demonstrate my proficiency in data analysis using Python. You'll find a diverse set of projects that cover a wide range of data analysis techniques, such as data cleaning, data exploration, data visualization, and statistical modeling. These projects showcase my ability to extract insights from data and present them in a clear and visually appealing way.
 
 I hope you find this repository to be informative and engaging. I welcome any opportunity to discuss my qualifications and experience further. Thank you for visiting my repository!
+
+<b>Olympics Analysis</b><br>
+<b>Description:</b>This project analyzes retail transactions data and classifies customers into distinct groups by applying RFM model and quantile scoring method. The objective is to help the business gain insights and develop effective engagement strategies based on customer behaviors. As a result, two tables are created describing each group's charateristics and sharing recommended marketing strategies.
+
+<b>Tools:</b> Jupyter Notebook (Python).
+
+<b>Skills:</b> Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, subplot visualization, and article writing.
+
+<b>Outputs:</b>
+
+Project notebook in .ipynb file format.
+Medium article: https://medium.com/p/1bce966c394a
+Dataset
+
+online_retail_data.csv - customer transactions data over 2 years.
+Fields: 8
+Rows: 541,909
