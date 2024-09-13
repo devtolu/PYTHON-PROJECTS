@@ -15,13 +15,13 @@ I hope you find this repository to be informative and engaging. I welcome any op
 
 <b>Tools:</b> Jupyter Notebook (Python).
 
-<b>Skills:</b> Python libraries (Numpy, Pandas, Matplotlib, Seaborn), def statement, data merging, nulls & duplicates handling. I did not perform subplot visualization hence i did not use matplotlib and seaborn libraries.
+<b>Skills:</b> Python libraries (Pandas), def statement, data merging, nulls & duplicates handling. I did not perform subplot visualization hence i did not use matplotlib and seaborn libraries.
 
 <b>Outputs:</b>
 
 Project notebook in .ipynb file format.
+https://github.com/devtolu/PYTHON-PROJECTS/blob/main/olympics.ipynb
 
 Dataset
-online_retail_data.csv - customer transactions data over 2 years.
-Fields: 8
-Rows: 541,909
+Data Source - Kaggle - https://www.kaggle.com/datasets/sajkazmi/paris-olympics-2024-games-dataset-updated-daily
+
