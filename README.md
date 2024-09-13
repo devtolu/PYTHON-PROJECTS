@@ -11,18 +11,17 @@ In this file, you will find examples of Python code that demonstrate my proficie
 I hope you find this repository to be informative and engaging. I welcome any opportunity to discuss my qualifications and experience further. Thank you for visiting my repository!
 
 <b>Olympics Analysis</b> https://github.com/devtolu/PYTHON-PROJECTS/blob/main/olympics.ipynb <br>
-<b>Description:</b>This project analyzes retail transactions data and classifies customers into distinct groups by applying RFM model and quantile scoring method. The objective is to help the business gain insights and develop effective engagement strategies based on customer behaviors. As a result, two tables are created describing each group's charateristics and sharing recommended marketing strategies.
+<b>Description:</b>This project analyzes the paris olympic 2024 dataset, and classifies athletes into distinct teams and medals won. However, the data was firstly acquired, prepared for cleaning and anlysis and data visualization. The objective is derive insights and develop effective dashboard for carrying out decision making based on the business inteligence performed on the data for making informed decisions. As a result the data was acquired, prepared and cleaned before being analysed  
 
 <b>Tools:</b> Jupyter Notebook (Python).
 
-<b>Skills:</b> Python libraries (Numpy, Pandas, Matplotlib, Seaborn), for loop, def statement, branching, data slicing, data merging, nulls & duplicates handling, RFM analysis, quantile scoring, outliers removal, subplot visualization, and article writing.
+<b>Skills:</b> Python libraries (Numpy, Pandas, Matplotlib, Seaborn), def statement, data merging, nulls & duplicates handling. I did not perform subplot visualization hence i did not use matplotlib and seaborn libraries.
 
 <b>Outputs:</b>
 
 Project notebook in .ipynb file format.
-Medium article: https://medium.com/p/1bce966c394a
-Dataset
 
+Dataset
 online_retail_data.csv - customer transactions data over 2 years.
 Fields: 8
 Rows: 541,909
